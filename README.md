@@ -29,7 +29,5 @@ Removed the last layer and added a linear layer.
 ### Requirements
 
 	
-	```	
-		./InstallPackages.sh
-	```
+` ./InstallPackages.sh ` 
 
